@@ -47,11 +47,11 @@ features                                  :
     description                           : Where we landing? Spin the wheel to decide where to land!
     fontawesome_icon_name                 : map-marked-alt
     
-   - title                                : Challenges
+  - title                                 : Challenges
     description                           : Keep track of your weekly challenges!
     fontawesome_icon_name                 : star
     
-    - title                                 : Upcoming Items
+  - title                                 : Upcoming Items
     description                           : Take a sneak peak at the upcoming items!
     fontawesome_icon_name                 : unlock
 
